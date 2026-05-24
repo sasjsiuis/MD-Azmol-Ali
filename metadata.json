@@ -1,0 +1,6 @@
+{
+  "name": "News Headline Generator",
+  "description": "বক্তৃতা বা বিবৃতি থেকে তাৎক্ষণিকভাবে আকর্ষণীয় ও জুতসই ৫টি ক্যাটাগরির সংবাদ শিরোনাম এবং সম্পাদকের সূক্ষ্ম মূল্যায়ন তৈরির জন্য একটি এআই চালিত বিশেষ অ্যাপ্লিকেশন।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
